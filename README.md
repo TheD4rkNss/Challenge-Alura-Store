@@ -80,9 +80,8 @@ Se você encontrar problemas:
 2. Verifique se todas as dependências estão instaladas
 3. Garanta a compatibilidade da versão do Python (Python 3.6+)
 4. Verifique os caminhos dos arquivos e a estrutura do diretório
-## 📄 License
+## 📄 Licença 
 
 Este projeto é para fins educacionais como parte do treinamento em análise de dados.
 
 ---
-*Gerado para Análise de Desempenho da Rede Alura Store* 🏪
